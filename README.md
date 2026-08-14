@@ -125,6 +125,7 @@ Compare products, regions and customer segments that underperformed in 2015 with
 Investigate the causes of the gap and implement targeted promotions and sales strategies to improve their performance.
 
 - Strengthen and diversify the customer base
+  
 Develop targeted marketing and promotional strategies for corporate and Home Office customers while retaining high-value customers.
 
 ## Conclusion
